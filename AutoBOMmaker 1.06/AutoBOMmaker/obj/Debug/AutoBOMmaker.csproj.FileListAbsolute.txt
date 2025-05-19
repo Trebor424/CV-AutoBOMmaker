@@ -1,0 +1,407 @@
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker_BASE — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia (3)\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2)\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual — kopia — kopia — kopia (2) — kopia — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker-Actual\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.0\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.01\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.02\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.03\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.04 — kopia\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.05\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+C:\Users\K90013271\Desktop\AutoBOMmaker — kopia\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+M:\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.07\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
+C:\Users\K90013271\Desktop\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe.config
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.ResolveComReference.cache
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.exe
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.pdb
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\AutoBOMmaker.exe
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\AutoBOMmaker.pdb
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.dll
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.dll
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.pdb
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.xml
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.pdb
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\bin\Debug\ExcelDataReader.DataSet.xml
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.csprojResolveAssemblyReference.cache
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.Form1.resources
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.Properties.Resources.resources
+\\NTS4180\Common\Operations\MD\3. Engineering\Sekcja SMT.THT.TEST\4. TESTY\Utilities\AutoBOMmaker\AutoBOMmaker 1.06\AutoBOMmaker\obj\Debug\AutoBOMmaker.csproj.GenerateResource.Cache
