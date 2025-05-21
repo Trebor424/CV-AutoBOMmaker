@@ -1,3 +1,4 @@
 ﻿# CV-AutoBOMmaker
 
-Automatically generates input file based on Bill of matrial (BOM) Can be used in engineering projects to manage components efficiently.
+Tech stack: C#, Windows Forms
+A Windows desktop tool that generates Bills of Materials (BOM) based on imported component data. Useful for electrical and mechanical engineers to automate and standardize BOM creation for projects.
